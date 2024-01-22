@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlexandrJS
+- 👋 Hi, I’m @AlexDomaCode
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on most popular company 
